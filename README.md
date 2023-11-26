@@ -59,20 +59,22 @@ If the output is 1, then the bulb glows.
 Check all the gates following the same procedure.
 ## Program:
 
-![image](https://github.com/RahiniAchudhan/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/145742838/0422046c-f3c0-4525-bed2-d540613532a0)
+![EXP 01](https://github.com/RahiniAchudhan/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/145742838/4df55d5b-8504-4fff-a71e-067a51ebe6fb)
+
 
 ## Logic symbol & Truthtable:
 
-![image](https://github.com/RahiniAchudhan/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/145742838/c529eeba-fff9-42e3-b63f-fafa4223e0b9)
+![TRUTH TABLE](https://github.com/RahiniAchudhan/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/145742838/c4fd72f6-a6db-4fc6-a0a6-4a22ca85f7fc)
+
 
 ## RTL realization:
 
-![image](https://github.com/RahiniAchudhan/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/145742838/8b82b843-c5fa-466f-a7fe-21457abf6dd6)
+![EXP 01 (RTL)](https://github.com/RahiniAchudhan/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/145742838/bf9ad361-7f12-4f77-b931-2793c8b07686)
 
 
 ## Output:
 
-![image](https://github.com/RahiniAchudhan/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/145742838/a2fcebab-3751-4dae-ad95-dc799e02fb86)
+![wave(EXP 01)](https://github.com/RahiniAchudhan/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/145742838/5cc62c23-daa4-49b4-9677-29807cf5d206)
 
 
 ## Result:
